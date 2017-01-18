@@ -1,0 +1,10 @@
+name: DailyRewardsGUI
+main: dailyrewardsgui.DailyRewardsGUI
+version: 1.1
+author: _Shevchik_
+softdepend: [PlaceholderAPI]
+commands:
+  dailyrewards:
+    aliases: [daily]
+  dailyrewardsadmin:
+    aliases: [dailyadmin]
